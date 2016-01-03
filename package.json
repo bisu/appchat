@@ -1,0 +1,26 @@
+{
+  "name": "Slack-bot",
+  "version": "0.0.1",
+  "description": "Chatapp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "ejs": "*",
+    "express": "~4.9.x",
+    "firebase": "^2.3.2"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "chatapp slack"
+  ],
+  "license": "MIT"
+}

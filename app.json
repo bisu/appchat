@@ -1,0 +1,7 @@
+{
+  "name": "Chat",
+  "description": "informe through slack about events in my chatapp",
+  "repository": "",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": []
+}
